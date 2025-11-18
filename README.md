@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=Dot-8" align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=dot-8&cc=000&tc=fff&ic=fff&bc=000" align="center">
 </p>
 
 ---
